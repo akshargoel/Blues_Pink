@@ -45,7 +45,7 @@ const ContactPage = () => {
             transition={{ duration: 0.6 }} 
             className="relative rounded-xl overflow-hidden"
           >
-            <img src="/contact-image.jpg" alt="Contact Us" className="w-full h-full object-cover rounded-xl" />
+            <img src="/images.school.jpeg" alt="Contact Us" className="w-full h-full object-cover rounded-xl" />
             <div className="absolute inset-0 bg-black/40 flex flex-col items-center justify-center text-white text-center">
               <h3 className="text-3xl font-bold">Have Questions?</h3>
               <p className="text-lg mt-2">Reach out to us for any queries or support.</p>
