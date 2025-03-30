@@ -61,7 +61,7 @@ const Gallery = () => {
         <div className="mb-16">
           <h3 className="text-3xl font-bold text-gray-800 mb-6">🎉 Memorable Events</h3>
           <div className="grid md:grid-cols-3 gap-6">
-            {["/images/event1.jpg", "/images/event2.jpg", "/images/event3.jpg"].map((img, i) => (
+            {["/images/school.jpeg", "/images/school.jpeg", "/images/school.jpeg"].map((img, i) => (
               <motion.div 
                 key={i} 
                 className="relative overflow-hidden rounded-lg shadow-lg cursor-pointer group"
