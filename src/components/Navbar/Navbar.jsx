@@ -37,9 +37,9 @@ export default function Navbar() {
         <div className="flex items-center space-x-3">
           {/* Logo Image with Hover Effect */}
           <img
-            src="/logo.png"
+            src="/images/logo.jpg"
             alt="Blues&Pink Logo"
-            className="w-10 h-10 object-contain transition-transform duration-300 hover:scale-110"
+            className="w-10 h-10 object-contain rounded-full transition-transform duration-300 hover:scale-110"
           />
           {/* Gradient Text with Hover Effect */}
           <div className="text-2xl font-extrabold bg-gradient-to-r from-blue-500 to-pink-500 text-transparent bg-clip-text transition-all duration-300 hover:brightness-150 hover:scale-105 hover:drop-shadow-lg">
